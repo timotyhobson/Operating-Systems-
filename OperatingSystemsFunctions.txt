@@ -1,0 +1,2 @@
+An OS is just a special program that manages the resources of a computer. Anyone can create one. A modern one will take a lot of effort to make.
+
